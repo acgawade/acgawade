@@ -1,6 +1,6 @@
 # Hi, I'm Achyut! 👋
 
-I'm a Cloud Computing Master's student and an AWS Certified Solutions Architect with 5 years of experience in software development currently working at JP Morgan Chase Dublin. I build scalable, high-performance applications using Java, Spring Boot, and various AWS services. Passionate about continuous learning and innovation, I enjoy solving complex problems and contributing to open-source projects.
+I'm a Cloud enthusiast and an AWS Certified Solutions Architect with 5 years of experience in software development currently working at JP Morgan Chase Dublin. I build scalable, high-performance applications using Java, Spring Boot, and various AWS services. Passionate about continuous learning and innovation, I enjoy solving complex problems and contributing to open-source projects.
 
 ![acgawade's Stats](https://github-readme-stats.vercel.app/api?username=acgawade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
