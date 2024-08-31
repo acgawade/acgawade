@@ -1,26 +1,25 @@
 # Hi, I'm Achyut! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I'm a Cloud Computing Master's student and an AWS Certified Solutions Architect with 5 years of experience in software development currently working at JP Morgan Chase Dublin. I build scalable, high-performance applications using Java, Spring Boot, and various AWS services. Passionate about continuous learning and innovation, I enjoy solving complex problems and contributing to open-source projects.
 
 ![acgawade's Stats](https://github-readme-stats.vercel.app/api?username=acgawade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I've pursued my Master's in Cloud Computing at the National College of Ireland in Dublin, IE.
+- 🌐 AWS Certified Solutions Architect with hands-on expertise in designing scalable cloud solutions and microservices architecture.
+- 💻 Passionate about Java, Spring Boot, AWS, and building high-performance, distributed systems.
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgres,mysql,kafka,redis,cassandra,html,css,angular,maven&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,terraform,postgres,mysql,kafka,redis,cassandra,html,css,angular,solidity,maven&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+  - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
