@@ -9,6 +9,7 @@ I'm a Cloud enthusiast and an AWS Certified Solutions Architect with 5 years of 
 - 🔭 I've pursued my Master's in Cloud Computing at the National College of Ireland in Dublin, IE.
 - 🌐 AWS Certified Solutions Architect with hands-on expertise in designing scalable cloud solutions and microservices architecture.
 - 💻 Passionate about Java, Spring Boot, AWS, and building high-performance, distributed systems.
+- I have experience working in trading, payment chargeback, and e-commerce.
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
