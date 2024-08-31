@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgres,mysql,kafka,redis,cassandra,html,css,angular,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgres,mysql,kafka,redis,cassandra,html,css,angular,maven&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
